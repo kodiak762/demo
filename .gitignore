@@ -17,3 +17,5 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+# Mac OS temp files
+.DS_Store
